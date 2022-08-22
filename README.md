@@ -7,7 +7,7 @@
  [![codecov](https://codecov.io/gh/tomaskavka/react-simple-use-intersection-observer/branch/main/graph/badge.svg?token=OMdqIJe8u3)](https://codecov.io/gh/tomaskavka/react-simple-use-intersection-observer)
 
 
-useIntersectionObserver React hook, easy to use! Zero dependencies, blasting fast and under 1kB (minified + GZipped).
+useIntersectionObserver React hook, easy to use! Zero dependencies, blasting fast and size around 0.5kB (minified + GZipped).
 
 ## Getting started
 ### Install
